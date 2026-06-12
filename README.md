@@ -6,6 +6,8 @@
 
 **ZYCLEANER V3** is a sleek, highly optimized, and lightweight system cache cleaning utility. Completely rewritten in Python with a modern dark-themed GUI, it helps you safely free up storage space by targeting hidden junk files, temporary folders, and app caches that Windows leaves behind.
 
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge&logo=github)](https://github.com/CazymirTM/ZYCLEANER-V3/releases/latest)
+
 ---
 
 ## ✨ Key Features
