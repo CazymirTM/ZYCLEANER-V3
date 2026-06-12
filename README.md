@@ -27,12 +27,12 @@
 
 ## 🚀 How to Use
 
-1. Launch **`zycleaner_v3.exe`**.
+1. Launch **`ZYCLEANER_V3.exe`**.
 2. Accept the Windows UAC (Administrator) prompt.
 3. Click the **Find Files** button. The engine will scan your system and calculate the size of your cache directories.
 4. Review the results in the main panel. Check the boxes next to the directories you wish to wipe.
 5. Click **Confirm / Clean** to purge the selected files.
-6. Enjoy your reclaimed storage space!
+6. Enjoy
 
 ---
 
@@ -43,4 +43,4 @@
 
 ## 👨‍💻 Credits
 * **Developer:** [CeZeY (CazymirTM)](https://github.com/CazymirTM)
-* Designed as the successor to ZYCLEANER V2 and V1ROX Performance Booster.
+* * **Designer:** [(MikeZrZ)]
