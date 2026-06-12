@@ -10,6 +10,8 @@
 
 ---
 
+![Dashboard UI](1.png)
+
 ## ✨ Key Features
 
 * **Modern & Responsive UI:** Built using `CustomTkinter` for a clean, dark-mode aesthetic that never freezes during scans thanks to asynchronous multi-threading.
