@@ -19,8 +19,7 @@
   * Google Chrome Cache
   * Discord Cache
   * NVIDIA Shader Cache
-* **Granular Control:** Unlike aggressive one-click cleaners, ZYCLEANER lets you scan first, view exactly how much space each directory occupies, and manually check/uncheck what you want to delete.
-* **Automatic Administrator Elevation (UAC):** Automatically requests necessary permissions upon launch to ensure it has the rights to clean protected system directories.
+* **Granular Control:** ZYCLEANER lets you scan first, view exactly how much space each directory occupies, and manually check/uncheck what you want to delete.
 * **Safe Deletion Engine:** Gracefully handles locked or in-use files, skipping them safely without crashing the application.
 * **Built-in Logging:** Generates a background diagnostic log in `AppData/Roaming/ZYCLEANER-V3` for easy troubleshooting.
 * **Update Checker:** Automatically pings GitHub to notify you if a newer version is available.
