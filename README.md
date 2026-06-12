@@ -43,4 +43,4 @@
 
 ## 👨‍💻 Credits
 * **Developer:** [CeZeY (CazymirTM)](https://github.com/CazymirTM)
-* * **Designer:** [(MikeZrZ)]
+* * **UI Designer:** (AlexXZrZ)
